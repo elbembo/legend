@@ -1,0 +1,8 @@
+{
+  "name": "Legend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2c44d8b0"
+}
